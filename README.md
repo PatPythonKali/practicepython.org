@@ -1,2 +1,2 @@
 # practicepython.org
-Hello Pat!
+This is my take on https://www.practicepython.org/ excercises.
